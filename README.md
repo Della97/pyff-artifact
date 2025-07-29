@@ -35,10 +35,10 @@ The `results/` subdirectory includes:
 
 This benchmark suite evaluates:
 
-- **Sequential Execution**:
+- **Python Parallel Execution**:
   - Pure Python concurrency.
   
-- **Parallel Execution**:
+- **FastFlow-Python Parallel Execution**:
   - Using **multiprocessing** (`*_proc.py`)
   - Using **subinterpreters** (`*_subint.py`)
 
